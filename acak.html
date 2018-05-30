@@ -7,8 +7,10 @@
 <body>
 	<script type="text/javascript">
 		list = [0, 1]
-		for (n = 1; n <= 100; n++){
-			document.writeln(list[0])
+		for (n = 1; n <= 1000000; n++){
+			acak = Math.random()
+			document.writeln(Math.floor(acak * list.length))
+			// document.writeln(list[0])
 		}
 	</script>
 </body>
