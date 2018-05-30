@@ -3,11 +3,13 @@
     - [Bin]()
     - [Excel]()
     - [Virus]()
+- Desain
+    - [Desain Pengajian](https://github.com/amazing-guardian/desain-pengajian)
 - Dokumen
     - [Akun](https://github.com/amazing-guardian/akun)
     - [Cerpen](https://github.com/amazing-guardian/cerpen)
     - [Catatan Zen](https://github.com/amazing-guardian/catatan-zen)
-    - [Database Toko]()
+    - [Database Toko](https://github.com/amazing-guardian/database-toko)
     - [Duit]()
     - Ebook
         - [Kode Etik]()
