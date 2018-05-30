@@ -145,7 +145,7 @@
     - [Tulis]
     - [Whatsapp Link Generator]
 - WWW
-    - [Antrian]
+    - [Antrian](https://github.com/amazing-guardian/antrian)
     - [Arsip]
     - [Latihan OOP]
     - [Psikoweb Beta]
