@@ -6,7 +6,7 @@
 - Dokumen
     - [Akun](https://github.com/amazing-guardian/akun)
     - [Cerpen](https://github.com/amazing-guardian/cerpen)
-    - [Catatan Zen]()
+    - [Catatan Zen](https://github.com/amazing-guardian/catatan-zen)
     - [Database Toko]()
     - [Duit]()
     - Ebook
