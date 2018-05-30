@@ -4,7 +4,7 @@
     - [Excel]()
     - [Virus]()
 - Dokumen
-    - [Akun]()
+    - [Akun](https://github.com/amazing-guardian/akun)
     - [Cerpen](https://github.com/amazing-guardian/cerpen)
     - [Catatan Zen]()
     - [Database Toko]()
@@ -47,7 +47,7 @@
 - Koding
     - [Project Euler]()
 - Kuliah
-    - [Borang]()
+    - [Borang](https://github.com/amazing-guardian/borang)
     - [DISC]()
     - Himapsi
         - [LPJ Himapsi Bang Hardi]()
