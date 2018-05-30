@@ -28,7 +28,7 @@
         - [Aku Berkata](https://github.com/amazing-guardian/aku-berkata)
         - [Blogwalking](https://github.com/amazing-guardian/blogwalking)
         - [Coffeescript](https://github.com/amazing-guardian/coffeescript)
-        - [Ecmascript]()
+        - [Ecmascript](https://github.com/amazing-guardian/ecmascript)
         - [Font]()
         - [Huruf Jepang]()
         - [Japan Story]()
