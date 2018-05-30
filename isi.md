@@ -22,7 +22,7 @@
     - [Mengajar](https://github.com/amazing-guardian/mengajar)
     - [Mutabaah](https://github.com/amazing-guardian/mutabaah)
     - [Novel Dewi]()
-    - [Tutorial]()
+    - [Tutorial](https://github.com/amazing-guardian/tutorial)
     - [Tutorial Gitlab]()
     - Workspace
         - [Aku Berkata]()
