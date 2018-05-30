@@ -36,8 +36,8 @@
         - [Materialize Color](https://github.com/amazing-guardian/materialize-color)
         - [Psikologi Universitas Mulawarman](https://github.com/amazing-guardian/psikologi-universitas-mulawarman)
         - [Puasa 2018](https://github.com/amazing-guardian/puasa-2018)
-        - [Seindah Sunnah]
-        - [Sekolah Impian]
+        - [Seindah Sunnah](https://github.com/amazing-guardian/seindah-sunnah)
+        - [Sekolah Impian](https://github.com/amazing-guardian/sekolah-impian)
         - [Tutorial Jade]
         - [Zen]
 - Gambar
