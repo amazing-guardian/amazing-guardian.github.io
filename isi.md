@@ -33,7 +33,7 @@
         - [Huruf Jepang](https://github.com/amazing-guardian/huruf-jepang)
         - [Japan Story](https://github.com/amazing-guardian/japan-story)
         - [Kaligrafi](https://github.com/amazing-guardian/kaligrafi)
-        - [Materialize Color]
+        - [Materialize Color](https://github.com/amazing-guardian/materialize-color)
         - [Psikologi Universitas Mulawarman]
         - [Puasa 2018]
         - [Seindah Sunnah]
