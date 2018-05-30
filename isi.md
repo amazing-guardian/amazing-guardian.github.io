@@ -1,0 +1,150 @@
+- Aplikasi
+    - [Aplikasi Android](http://github.com/mzaini30/aplikasi-android)
+    - [Bin](http://gitlab.com/mzaini30/bin)
+    - [Excel](http://gitlab.com/mzaini30/excel)
+    - [Virus](http://github.com/mzaini30/virus)
+- Dokumen
+    - [Akun](http://gitlab.com/mzaini30/akun)
+    - [Cerpen](http://gitlab.com/mzaini30/cerpen)
+    - [Catatan Zen](http://gitlab.com/mzaini30/catatan-zen)
+    - [Database Toko](http://gitlab.com/mzaini30/database-toko)
+    - [Duit](http://gitlab.com/mzaini30/duit)
+    - Ebook
+        - [Kode Etik](http://gitlab.com/ebook-psikologi/kode-etik)
+        - [Psikologi Perkembangan Anak](http://gitlab.com/ebook-psikologi/psikologi-perkembangan-anak)
+    - [Eula](http://gitlab.com/mzaini30/eula)
+    - [Gitlab](http://github.com/mzaini30/gitlab)
+    - [Keuangan](http://gitlab.com/mzaini30/keuangan)
+    - [Keystore](http://gitlab.com/mzaini30/keystore)
+    - [Lamaran Kerja Jadi Guru](http://gitlab.com/mzaini30/lamaran-kerja-jadi-guru)
+    - [Mengajar](http://gitlab.com/mzaini30/mengajar)
+    - [Mutabaah](http://gitlab.com/mzaini30/mutabaah)
+    - [Novel Dewi](http://gitlab.com/mzaini30/novel-dewi)
+    - [Tutorial](http://github.com/mzaini30/tutorial)
+    - [Tutorial Gitlab](http://github.com/mzaini30/tutorial-gitlab)
+    - Workspace
+        - [Aku Berkata](http://gitlab.com/mzaini30/aku-berkata)
+        - [Blogwalking](http://gitlab.com/mzaini30/blogwalking)
+        - [Coffeescript](http://gitlab.com/mzaini30/coffeescript)
+        - [Ecmascript](http://gitlab.com/mzaini30/ecmascript)
+        - [Font](http://gitlab.com/mzaini30/font)
+        - [Huruf Jepang](http://gitlab.com/mzaini30/huruf-jepang)
+        - [Japan Story](http://gitlab.com/mzaini30/japan-story)
+        - [Kaligrafi](http://gitlab.com/mzaini30/kaligrafi)
+        - [Materialize Color](http://gitlab.com/mzaini30/materialize-color)
+        - [Psikologi Universitas Mulawarman](http://gitlab.com/mzaini30/psikologi-universitas-mulawarman)
+        - [Puasa 2018](http://gitlab.com/mzaini30/puasa-2018-a)
+        - [Seindah Sunnah](http://gitlab.com/mzaini30/seindah-sunnah)
+        - [Sekolah Impian](http://gitlab.com/mzaini30/sekolah-impian)
+        - [Tutorial Jade](http://gitlab.com/mzaini30/tutorial-jade)
+        - [Zen](http://gitlab.com/mzaini30/zen)
+- Gambar
+    - [Foto Diri](http://gitlab.com/mzaini30/foto-diri)
+    - [Manga](http://gitlab.com/mzaini30/manga)
+    - [Poster MDC Leadership](http://gitlab.com/mzaini30/poster-mdc-leadership)
+- Game
+    - [Main Python](http://gitlab.com/mzaini30/main-python)
+- Koding
+    - [Project Euler](http://gitlab.com/mzaini30/project-euler)
+- Kuliah
+    - [Borang](http://gitlab.com/mzaini30/borang)
+    - [DISC](http://gitlab.com/mzaini30/disc)
+    - Himapsi
+        - [LPJ Himapsi Bang Hardi](http://gitlab.com/mzaini30/lpj-himapsi-bang-hardi)
+        - [Persiapan KPMF](http://gitlab.com/mzaini30/persiapan-kpmf)
+        - [Persiapan LPJ](http://gitlab.com/mzaini30/persiapan-lpj)
+        - [Persiapan Rakoornas](http://gitlab.com/mzaini30/persiapan-rakoornas)
+    - [Persiapan Akreditasi](http://gitlab.com/mzaini30/persiapan-akreditasi)
+    - [Persiapan Beasiswa](http://gitlab.com/mzaini30/persiapan-beasiswa)
+    - Semester 3
+        - Psikometri
+            - [Kontest](http://github.com/mzaini30/kontest)
+            - [Operasi Matriks](http://github.com/mzaini30/operasi-matriks)
+    - Semester 4
+        - Metodologi Penelitian
+            - [Kualitatif](http://gitlab.com/mzaini30/metpen-kualitatif)
+            - [Kuantitatif](http://gitlab.com/mzaini30/metpen-kuantitatif)
+            - [Tabel Kelompok Kualitatif](http://gitlab.com/mzaini30/tabel-kelompok-kualitatif)
+        - Modifikasi Perilaku
+            - [Tugas Modifikasi Perilaku](http://gitlab.com/mzaini30/tugas-modifikasi-perilaku)
+        - Observasi dan Wawancara
+            - [Observasi](http://gitlab.com/mzaini30/observasi)
+            - [Wawancara](http://gitlab.com/mzaini30/wawancara)
+        - Psikologi Abnormal
+            - [Observasi Film Split](http://gitlab.com/mzaini30/observasi-film-split)
+            - [Review Jurnal APA](http://gitlab.com/mzaini30/review-jurnal-apa)
+        - Psikologi Klinis
+            - [Anak Berkebutuhan Khusus](http://gitlab.com/mzaini30/anak-berkebutuhan-khusus)
+            - [Kasus Abnormal](http://gitlab.com/mzaini30/kasus-abnormal)
+        - Psikologi Kognitif
+            - [Jurnal Bantu Nola](http://gitlab.com/mzaini30/jurnal-bantu-nola)
+            - [Review- Jurnal Inggris](http://gitlab.com/mzaini30/review-jurnal-inggris)
+        - Psikologi Konseling
+            - [Konseling Remaja](http://gitlab.com/mzaini30/konseling-remaja)
+    - Semester 5
+        - Dasar-dasar Intervensi Nonklinis
+            - [Intervensi Skala Kedisiplinan](http://gitlab.com/mzaini30/intervensi-skala-kedisiplinan)
+            - [Praktikum Intervensi](http://gitlab.com/mzaini30/praktikum-intervensi)
+            - [Presentasi Intervensi](http://gitlab.com/mzaini30/presentasi-intervensi)
+            - [Teknik Konseling](http://gitlab.com/mzaini30/teknik-konseling)
+        - Kesehatan Mental
+            - [Kesehatan Mental Inggris](http://gitlab.com/mzaini30/kesehatan-mental-inggris)
+            - [Neurotik VS Psikotik](http://gitlab.com/mzaini30/neurotik-vs-psikotik)
+            - [Tahapan Perkembangan](http://gitlab.com/mzaini30/tahapan-perkembangan)
+        - Kode Etik
+            - [Kode Etik Setelah UTS](http://gitlab.com/mzaini30/kode-etik-setelah-uts)
+            - [Presentasi Kode Etik](http://gitlab.com/mzaini30/presentasi-kode-etik)
+        - Konstruksi Alat Ukur
+            - [Kontur](http://gitlab.com/mzaini30/kontur)
+            - [Kontur Punya Dewi](http://gitlab.com/mzaini30/kontur-punya-dewi)
+            - [Latihan Kontur](http://gitlab.com/mzaini30/latihan-kontur)
+            - [Panduan Kontur](http://gitlab.com/mzaini30/panduan-kontur)
+            - [Skrip Kontur](http://github.com/mzaini30/skrip-kontur)
+        - PKM
+            - [Data Artikel Ilmiah](http://gitlab.com/mzaini30/data-artikel-ilmiah)
+            - [Eksperimen PKM](http://gitlab.com/mzaini30/eksperimen-pkm)
+            - [Eksperimen PKM 2](http://gitlab.com/mzaini30/eksperimen-pkm-2)
+            - [Kualitatif PKM](http://gitlab.com/mzaini30/kualitatif-pkm)
+            - [Persiapan PKM](http://gitlab.com/mzaini30/persiapan-pkm)
+        - Psikologi Eksperimen
+            - [Praktikum Eksperimen](http://gitlab.com/mzaini30/praktikum-eksperimen)
+        - Psikologi Positif
+            - [Perbedaan Psikologi Positif dengan Kesehatan Mental](http://gitlab.com/mzaini30/praktikum-eksperimen)
+            - [Video Psikologi Positif](http://gitlab.com/mzaini30/video-psikologi-positif)
+        - Psikometri
+            - [Dafa Nitip Psikometri](http://gitlab.com/mzaini30/dafa-nitip-psikometri)
+        - Psikoterapi
+            - [Client Centered](http://gitlab.com/mzaini30/client-centered)
+            - [Jurnal Psikodrama](http://gitlab.com/mzaini30/jurnal-psikodrama)
+            - [Kelompok Psikoterapi](http://gitlab.com/mzaini30/kelompok-psikoterapi)
+            - [Praktikum Psikoterapi](http://gitlab.com/mzaini30/praktikum-psikoterapi)
+        - Tes Bakat
+            - [Aplikasi RMIB](http://gitlab.com/mzaini30/aplikasi-rmib)
+            - [Tes Bakat](http://gitlab.com/mzaini30/tes-bakat)
+        - [TIAD](http://gitlab.com/mzaini30/tiad)
+	- Semester 6
+        - [Konseling Keluarga](http://gitlab.com/mzaini30/konseling-keluarga)
+        - [Pendidikan Anak Usia Dini](http://gitlab.com/mzaini30/pendidikan-anak-usia-dini)
+        - [Psikologi Belajar](http://gitlab.com/mzaini30/psikologi-belajar)
+        - [Psikologi Konsumen](http://gitlab.com/mzaini30/psikologi-konsumen)
+        - [Psikologi Sekolah](http://gitlab.com/mzaini30/psikologi-sekolah)
+    - [UKT](http://gitlab.com/mzaini30/ukt)
+- Membuat Aplikasi
+    - [Puasa 2018](http://gitlab.com/mzaini30/puasa-2018)
+	- [You Can Hear Me](http://gitlab.com/mzaini30/you-can-hear-me)
+- Website
+    - [Backup Blog](http://gitlab.com/mzaini30/backup-blog)
+    - [Blog](http://gitlab.com/mzaini30/blog)
+    - [Blogwalking 2](http://github.com/mzaini30/blogwalking2)
+    - [Kaligrafi](http://github.com/mzaini30/kaligrafi)
+    - [Link](http://github.com/mzaini30/link)
+    - [Mockup Psikoweb](http://github.com/mzaini30/mockup-psikoweb)
+    - [Psikoweb](http://github.com/psikoweb/psikoweb.github.io)
+    - [Tulis](http://github.com/mzaini30/tulis)
+    - [Whatsapp Link Generator](http://github.com/mzaini30/wa)
+- WWW
+    - [Antrian](http://gitlab.com/mzaini30/antrian)
+    - [Arsip](http://gitlab.com/mzaini30/arsip)
+    - [Latihan OOP](http://gitlab.com/mzaini30/latihan-oop)
+    - [Psikoweb Beta](http://gitlab.com/mzaini30/psikoweb-beta)
+    - [Tahfizh](http://gitlab.com/mzaini30/tahfizh)
