@@ -25,7 +25,7 @@
     - [Tutorial](https://github.com/amazing-guardian/tutorial)
     - [Tutorial Gitlab]()
     - Workspace
-        - [Aku Berkata]()
+        - [Aku Berkata](https://github.com/amazing-guardian/aku-berkata)
         - [Blogwalking]()
         - [Coffeescript]()
         - [Ecmascript]()
