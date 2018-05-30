@@ -5,7 +5,7 @@
     - [Virus]()
 - Dokumen
     - [Akun]()
-    - [Cerpen]()
+    - [Cerpen](https://github.com/amazing-guardian/cerpen)
     - [Catatan Zen]()
     - [Database Toko]()
     - [Duit]()
