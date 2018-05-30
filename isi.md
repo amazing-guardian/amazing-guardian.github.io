@@ -38,7 +38,7 @@
         - [Puasa 2018](https://github.com/amazing-guardian/puasa-2018)
         - [Seindah Sunnah](https://github.com/amazing-guardian/seindah-sunnah)
         - [Sekolah Impian](https://github.com/amazing-guardian/sekolah-impian)
-        - [Tutorial Jade]
+        - [Tutorial Jade](https://github.com/amazing-guardian/tutorial-jade)
         - [Zen]
 - Gambar
     - [Foto Diri]
