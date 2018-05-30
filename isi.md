@@ -130,7 +130,7 @@
         - [Psikologi Belajar]
         - [Psikologi Konsumen]
         - [Psikologi Sekolah]
-    - [UKT]
+    - [UKT](https://github.com/amazing-guardian/ukt)
 - Membuat Aplikasi
     - [Puasa 2018]
 	- [You Can Hear Me]
@@ -146,7 +146,7 @@
     - [Whatsapp Link Generator]
 - WWW
     - [Antrian](https://github.com/amazing-guardian/antrian)
-    - [Arsip]
+    - [Arsip](https://github.com/amazing-guardian/arsip)
     - [Latihan OOP]
     - [Psikoweb Beta]
     - [Tahfizh]
