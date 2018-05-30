@@ -1,8 +1,8 @@
 - Aplikasi
-    - [Aplikasi Android]()
-    - [Bin]()
-    - [Excel]()
-    - [Virus]()
+    - [Aplikasi Android]
+    - [Bin]
+    - [Excel]
+    - [Virus]
 - Desain
     - [Desain Pengajian](https://github.com/amazing-guardian/desain-pengajian)
 - Dokumen
@@ -10,20 +10,20 @@
     - [Cerpen](https://github.com/amazing-guardian/cerpen)
     - [Catatan Zen](https://github.com/amazing-guardian/catatan-zen)
     - [Database Toko](https://github.com/amazing-guardian/database-toko)
-    - [Duit]()
+    - [Duit]
     - Ebook
-        - [Kode Etik]()
-        - [Psikologi Perkembangan Anak]()
-    - [Eula]()
-    - [Gitlab]()
-    - [Keuangan]()
+        - [Kode Etik]
+        - [Psikologi Perkembangan Anak]
+    - [Eula]
+    - [Gitlab]
+    - [Keuangan]
     - [Keystore](https://github.com/amazing-guardian/keystore)
-    - [Lamaran Kerja Jadi Guru]()
+    - [Lamaran Kerja Jadi Guru]
     - [Mengajar](https://github.com/amazing-guardian/mengajar)
     - [Mutabaah](https://github.com/amazing-guardian/mutabaah)
-    - [Novel Dewi]()
+    - [Novel Dewi]
     - [Tutorial](https://github.com/amazing-guardian/tutorial)
-    - [Tutorial Gitlab]()
+    - [Tutorial Gitlab]
     - Workspace
         - [Aku Berkata](https://github.com/amazing-guardian/aku-berkata)
         - [Blogwalking](https://github.com/amazing-guardian/blogwalking)
@@ -31,122 +31,122 @@
         - [Ecmascript](https://github.com/amazing-guardian/ecmascript)
         - [Font](https://github.com/amazing-guardian/font)
         - [Huruf Jepang](https://github.com/amazing-guardian/huruf-jepang)
-        - [Japan Story]()
-        - [Kaligrafi]()
-        - [Materialize Color]()
-        - [Psikologi Universitas Mulawarman]()
-        - [Puasa 2018]()
-        - [Seindah Sunnah]()
-        - [Sekolah Impian]()
-        - [Tutorial Jade]()
-        - [Zen]()
+        - [Japan Story](https://github.com/amazing-guardian/japan-story)
+        - [Kaligrafi]
+        - [Materialize Color]
+        - [Psikologi Universitas Mulawarman]
+        - [Puasa 2018]
+        - [Seindah Sunnah]
+        - [Sekolah Impian]
+        - [Tutorial Jade]
+        - [Zen]
 - Gambar
-    - [Foto Diri]()
-    - [Manga]()
-    - [Poster MDC Leadership]()
+    - [Foto Diri]
+    - [Manga]
+    - [Poster MDC Leadership]
 - Game
-    - [Main Python]()
+    - [Main Python]
 - Koding
-    - [Project Euler]()
+    - [Project Euler]
 - Kuliah
     - [Borang](https://github.com/amazing-guardian/borang)
-    - [DISC]()
+    - [DISC]
     - Himapsi
-        - [LPJ Himapsi Bang Hardi]()
-        - [Persiapan KPMF]()
-        - [Persiapan LPJ]()
-        - [Persiapan Rakoornas]()
-    - [Persiapan Akreditasi]()
-    - [Persiapan Beasiswa]()
+        - [LPJ Himapsi Bang Hardi]
+        - [Persiapan KPMF]
+        - [Persiapan LPJ]
+        - [Persiapan Rakoornas]
+    - [Persiapan Akreditasi]
+    - [Persiapan Beasiswa]
     - Semester 3
         - Psikometri
-            - [Kontest]()
-            - [Operasi Matriks]()
+            - [Kontest]
+            - [Operasi Matriks]
     - Semester 4
         - Metodologi Penelitian
-            - [Kualitatif]()
-            - [Kuantitatif]()
-            - [Tabel Kelompok Kualitatif]()
+            - [Kualitatif]
+            - [Kuantitatif]
+            - [Tabel Kelompok Kualitatif]
         - Modifikasi Perilaku
-            - [Tugas Modifikasi Perilaku]()
+            - [Tugas Modifikasi Perilaku]
         - Observasi dan Wawancara
-            - [Observasi]()
-            - [Wawancara]()
+            - [Observasi]
+            - [Wawancara]
         - Psikologi Abnormal
-            - [Observasi Film Split]()
-            - [Review Jurnal APA]()
+            - [Observasi Film Split]
+            - [Review Jurnal APA]
         - Psikologi Klinis
-            - [Anak Berkebutuhan Khusus]()
-            - [Kasus Abnormal]()
+            - [Anak Berkebutuhan Khusus]
+            - [Kasus Abnormal]
         - Psikologi Kognitif
-            - [Jurnal Bantu Nola]()
-            - [Review- Jurnal Inggris]()
+            - [Jurnal Bantu Nola]
+            - [Review- Jurnal Inggris]
         - Psikologi Konseling
-            - [Konseling Remaja]()
+            - [Konseling Remaja]
     - Semester 5
         - Dasar-dasar Intervensi Nonklinis
-            - [Intervensi Skala Kedisiplinan]()
-            - [Praktikum Intervensi]()
-            - [Presentasi Intervensi]()
-            - [Teknik Konseling]()
+            - [Intervensi Skala Kedisiplinan]
+            - [Praktikum Intervensi]
+            - [Presentasi Intervensi]
+            - [Teknik Konseling]
         - Kesehatan Mental
-            - [Kesehatan Mental Inggris]()
-            - [Neurotik VS Psikotik]()
-            - [Tahapan Perkembangan]()
+            - [Kesehatan Mental Inggris]
+            - [Neurotik VS Psikotik]
+            - [Tahapan Perkembangan]
         - Kode Etik
-            - [Kode Etik Setelah UTS]()
-            - [Presentasi Kode Etik]()
+            - [Kode Etik Setelah UTS]
+            - [Presentasi Kode Etik]
         - Konstruksi Alat Ukur
-            - [Kontur]()
-            - [Kontur Punya Dewi]()
-            - [Latihan Kontur]()
-            - [Panduan Kontur]()
-            - [Skrip Kontur]()
+            - [Kontur]
+            - [Kontur Punya Dewi]
+            - [Latihan Kontur]
+            - [Panduan Kontur]
+            - [Skrip Kontur]
         - PKM
-            - [Data Artikel Ilmiah]()
-            - [Eksperimen PKM]()
-            - [Eksperimen PKM 2]()
-            - [Kualitatif PKM]()
-            - [Persiapan PKM]()
+            - [Data Artikel Ilmiah]
+            - [Eksperimen PKM]
+            - [Eksperimen PKM 2]
+            - [Kualitatif PKM]
+            - [Persiapan PKM]
         - Psikologi Eksperimen
-            - [Praktikum Eksperimen]()
+            - [Praktikum Eksperimen]
         - Psikologi Positif
-            - [Perbedaan Psikologi Positif dengan Kesehatan Mental]()
-            - [Video Psikologi Positif]()
+            - [Perbedaan Psikologi Positif dengan Kesehatan Mental]
+            - [Video Psikologi Positif]
         - Psikometri
-            - [Dafa Nitip Psikometri]()
+            - [Dafa Nitip Psikometri]
         - Psikoterapi
-            - [Client Centered]()
-            - [Jurnal Psikodrama]()
-            - [Kelompok Psikoterapi]()
-            - [Praktikum Psikoterapi]()
+            - [Client Centered]
+            - [Jurnal Psikodrama]
+            - [Kelompok Psikoterapi]
+            - [Praktikum Psikoterapi]
         - Tes Bakat
-            - [Aplikasi RMIB]()
-            - [Tes Bakat]()
-        - [TIAD]()
+            - [Aplikasi RMIB]
+            - [Tes Bakat]
+        - [TIAD]
 	- Semester 6
-        - [Konseling Keluarga]()
-        - [Pendidikan Anak Usia Dini]()
-        - [Psikologi Belajar]()
-        - [Psikologi Konsumen]()
-        - [Psikologi Sekolah]()
-    - [UKT]()
+        - [Konseling Keluarga]
+        - [Pendidikan Anak Usia Dini]
+        - [Psikologi Belajar]
+        - [Psikologi Konsumen]
+        - [Psikologi Sekolah]
+    - [UKT]
 - Membuat Aplikasi
-    - [Puasa 2018]()
-	- [You Can Hear Me]()
+    - [Puasa 2018]
+	- [You Can Hear Me]
 - Website
-    - [Backup Blog]()
-    - [Blog]()
-    - [Blogwalking 2]()
-    - [Kaligrafi]()
-    - [Link]()
-    - [Mockup Psikoweb]()
-    - [Psikoweb]()
-    - [Tulis]()
-    - [Whatsapp Link Generator]()
+    - [Backup Blog]
+    - [Blog]
+    - [Blogwalking 2]
+    - [Kaligrafi]
+    - [Link]
+    - [Mockup Psikoweb]
+    - [Psikoweb]
+    - [Tulis]
+    - [Whatsapp Link Generator]
 - WWW
-    - [Antrian]()
-    - [Arsip]()
-    - [Latihan OOP]()
-    - [Psikoweb Beta]()
-    - [Tahfizh]()
+    - [Antrian]
+    - [Arsip]
+    - [Latihan OOP]
+    - [Psikoweb Beta]
+    - [Tahfizh]
