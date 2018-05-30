@@ -34,8 +34,8 @@
         - [Japan Story](https://github.com/amazing-guardian/japan-story)
         - [Kaligrafi](https://github.com/amazing-guardian/kaligrafi)
         - [Materialize Color](https://github.com/amazing-guardian/materialize-color)
-        - [Psikologi Universitas Mulawarman]
-        - [Puasa 2018]
+        - [Psikologi Universitas Mulawarman](https://github.com/amazing-guardian/psikologi-universitas-mulawarman)
+        - [Puasa 2018](https://github.com/amazing-guardian/puasa-2018)
         - [Seindah Sunnah]
         - [Sekolah Impian]
         - [Tutorial Jade]
