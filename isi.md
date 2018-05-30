@@ -32,7 +32,7 @@
         - [Font](https://github.com/amazing-guardian/font)
         - [Huruf Jepang](https://github.com/amazing-guardian/huruf-jepang)
         - [Japan Story](https://github.com/amazing-guardian/japan-story)
-        - [Kaligrafi]
+        - [Kaligrafi](https://github.com/amazing-guardian/kaligrafi)
         - [Materialize Color]
         - [Psikologi Universitas Mulawarman]
         - [Puasa 2018]
