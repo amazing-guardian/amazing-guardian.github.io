@@ -32,7 +32,6 @@
         - [Seindah Sunnah](https://github.com/amazing-guardian/seindah-sunnah)
         - [Sekolah Impian](https://github.com/amazing-guardian/sekolah-impian)
         - [Tutorial Jade](https://github.com/amazing-guardian/tutorial-jade)
-        - [Zen]
 - Kuliah
     - [Borang](https://github.com/amazing-guardian/borang)
     - [DISC](https://github.com/amazing-guardian/disc)
