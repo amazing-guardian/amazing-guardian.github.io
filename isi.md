@@ -9,7 +9,7 @@
     - [Catatan Zen](https://github.com/amazing-guardian/catatan-zen)
     - [Database Toko](https://github.com/amazing-guardian/database-toko)
     - Ebook
-        - [Kode Etik]
+        - [Kode Etik](https://github.com/amazing-guardian/kode-etik)
         - [Psikologi Perkembangan Anak]
     - [Eula]
     - [Gitlab]
