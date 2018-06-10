@@ -132,7 +132,7 @@
 </style>
 
 <script type="text/javascript">
-    document.writeln('<scr'+'ipt type="text/javascript" src="http://muhammadzaini.com/bin-bin/jquery/jquery.min.js?'+Math.random()+'"></scr'+'ipt>')
+    document.writeln('<scr'+'ipt type="text/javascript" src="jquery.min.js?'+Math.random()+'"></scr'+'ipt>')
 </script>
 <script type="text/javascript">
   $('li').children().slideUp('fast')
