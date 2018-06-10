@@ -15,9 +15,8 @@
     - [Lamaran Kerja Jadi Guru](https://github.com/amazing-guardian/lamaran-kerja-jadi-guru)
     - [Mengajar](https://github.com/amazing-guardian/mengajar)
     - [Mutabaah](https://github.com/amazing-guardian/mutabaah)
-    - [Novel Dewi]
+    - [Novel Dewi](https://github.com/amazing-guardian/novel-dewi)
     - [Tutorial](https://github.com/amazing-guardian/tutorial)
-    - [Tutorial Gitlab]
     - Workspace
         - [Aku Berkata](https://github.com/amazing-guardian/aku-berkata)
         - [Blogwalking](https://github.com/amazing-guardian/blogwalking)
@@ -34,17 +33,9 @@
         - [Sekolah Impian](https://github.com/amazing-guardian/sekolah-impian)
         - [Tutorial Jade](https://github.com/amazing-guardian/tutorial-jade)
         - [Zen]
-- Gambar
-    - [Foto Diri]
-    - [Manga]
-    - [Poster MDC Leadership]
-- Game
-    - [Main Python]
-- Koding
-    - [Project Euler]
 - Kuliah
     - [Borang](https://github.com/amazing-guardian/borang)
-    - [DISC]
+    - [DISC](https://github.com/amazing-guardian/disc)
     - Himapsi
         - [LPJ Himapsi Bang Hardi]
         - [Persiapan KPMF]
