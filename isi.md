@@ -137,6 +137,7 @@
 - Website
     - [Backup Blog]
     - [Blog]
+    - [Blog Vue](https://github.com/amazing-guardian/blog-vue)
     - [Blogwalking 2]
     - [Kaligrafi]
     - [Link]
