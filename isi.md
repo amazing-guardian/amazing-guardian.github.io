@@ -38,7 +38,7 @@
     - Himapsi
         - [LPJ Himapsi Bang Hardi](https://github.com/amazing-guardian/lpj-himapsi-bang-hardi)
         - [Persiapan KPMF](https://github.com/amazing-guardian/persiapan-kpmf)
-        - [Persiapan LPJ]
+        - [Persiapan LPJ](https://github.com/amazing-guardian/persiapan-lpj)
         - [Persiapan Rakoornas]
     - [Persiapan Akreditasi]
     - [Persiapan Beasiswa]
