@@ -36,7 +36,7 @@
     - [Borang](https://github.com/amazing-guardian/borang)
     - [DISC](https://github.com/amazing-guardian/disc)
     - Himapsi
-        - [LPJ Himapsi Bang Hardi]
+        - [LPJ Himapsi Bang Hardi](https://github.com/amazing-guardian/lpj-himapsi-bang-hardi)
         - [Persiapan KPMF]
         - [Persiapan LPJ]
         - [Persiapan Rakoornas]
