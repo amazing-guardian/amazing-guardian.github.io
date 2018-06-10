@@ -122,3 +122,24 @@
 - WWW
     - [Antrian](https://github.com/amazing-guardian/antrian)
     - [Arsip](https://github.com/amazing-guardian/arsip)
+
+<!-- collapsing list -->
+
+<style type="text/css">
+  li {
+    cursor: pointer;
+  }
+</style>
+
+<script type="text/javascript">
+    document.writeln('<scr'+'ipt type="text/javascript" src="http://muhammadzaini.com/bin-bin/jquery/jquery.min.js?'+Math.random()+'"></scr'+'ipt>')
+</script>
+<script type="text/javascript">
+  $('li').children().slideUp('fast')
+  $('li a').slideDown('fast')
+  $('li').click(function(e){
+    e.stopPropagation()
+    $(this).children().slideToggle('fast')
+    $(this).find('a').slideDown('fast')
+  })
+</script>
