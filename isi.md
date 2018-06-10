@@ -12,7 +12,7 @@
         - [Kode Etik](https://github.com/amazing-guardian/kode-etik)
         - [Psikologi Perkembangan Anak](https://github.com/amazing-guardian/psikologi-perkembangan-anak)
     - [Keystore](https://github.com/amazing-guardian/keystore)
-    - [Lamaran Kerja Jadi Guru]
+    - [Lamaran Kerja Jadi Guru](https://github.com/amazing-guardian/lamaran-kerja-jadi-guru)
     - [Mengajar](https://github.com/amazing-guardian/mengajar)
     - [Mutabaah](https://github.com/amazing-guardian/mutabaah)
     - [Novel Dewi]
