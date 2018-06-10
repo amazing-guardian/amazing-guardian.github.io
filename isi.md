@@ -37,7 +37,7 @@
     - [DISC](https://github.com/amazing-guardian/disc)
     - Himapsi
         - [LPJ Himapsi Bang Hardi](https://github.com/amazing-guardian/lpj-himapsi-bang-hardi)
-        - [Persiapan KPMF]
+        - [Persiapan KPMF](https://github.com/amazing-guardian/persiapan-kpmf)
         - [Persiapan LPJ]
         - [Persiapan Rakoornas]
     - [Persiapan Akreditasi]
