@@ -40,7 +40,7 @@
         - [Persiapan KPMF](https://github.com/amazing-guardian/persiapan-kpmf)
         - [Persiapan LPJ](https://github.com/amazing-guardian/persiapan-lpj)
     - [Persiapan Akreditasi](https://github.com/amazing-guardian/persiapan-akreditasi)
-    - [Persiapan Beasiswa]
+    - [Persiapan Beasiswa](https://github.com/amazing-guardian/persiapan-beasiswa)
     - Semester 3
         - Psikometri
             - [Kontest]
