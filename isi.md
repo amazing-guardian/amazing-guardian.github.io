@@ -10,10 +10,7 @@
     - [Database Toko](https://github.com/amazing-guardian/database-toko)
     - Ebook
         - [Kode Etik](https://github.com/amazing-guardian/kode-etik)
-        - [Psikologi Perkembangan Anak]
-    - [Eula]
-    - [Gitlab]
-    - [Keuangan]
+        - [Psikologi Perkembangan Anak](https://github.com/amazing-guardian/psikologi-perkembangan-anak)
     - [Keystore](https://github.com/amazing-guardian/keystore)
     - [Lamaran Kerja Jadi Guru]
     - [Mengajar](https://github.com/amazing-guardian/mengajar)
